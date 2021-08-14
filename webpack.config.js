@@ -59,4 +59,7 @@ module.exports = {
     new VueLoaderPlugin()
     
   ],
+  devServer: {
+    port: 8079
+  }
 }
